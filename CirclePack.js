@@ -70,7 +70,7 @@ var CirclePack = function() {
 
       // Format the data
       var data = data.values;
-      console.log(data);
+      console.log(data); // Forgot to take this out
       var root = d3.hierarchy({
         values: data
       }, function(d) {
