@@ -26,7 +26,7 @@ Use this to set the diameter of chart. Just pass in a positive integer to the `.
 Pass in a integer to the `.colorDomain()` function to customize the range of colors that is used. This option is fun to mess with. See what you can come up with.
 ##### showCount
 Want the count shown for leaf nodes on hover? Or maybe you don't? No problem, just pass a boolean to the `.showCount()` function.
-##### opacity:
+##### opacity
 You can customize the opacity of the fill on the circles by passing a positive integer to the `.opacity()` function.
 ##### transitionTime
 To change the duration of the transition pass a positive integer to the `.transitionTime()` function. The time value is in milliseconds.
